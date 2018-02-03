@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Legislation-The-Game.data.unityweb",
+"asmCodeUrl": "Legislation-The-Game.asm.code.unityweb",
+"asmMemoryUrl": "Legislation-The-Game.asm.memory.unityweb",
+"asmFrameworkUrl": "Legislation-The-Game.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
